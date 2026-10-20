@@ -27,7 +27,6 @@
 <details>
   <summary><b>Vietnamese (Click there)</b></summary>
   <h2>Chào đồng hương. 👋</h2>
-  <br/>
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
