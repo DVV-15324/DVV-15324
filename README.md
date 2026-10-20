@@ -25,7 +25,7 @@
 <br/>
 
 <details>
-  <summary><b>Vietnamese (Click there)</b></summary>
+  <summary><b>Vietnamese (Click here)</b></summary>
   <h2>Chào đồng hương. 👋</h2>
   <table width="100%">
     <tr>
