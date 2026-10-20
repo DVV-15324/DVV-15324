@@ -1,9 +1,9 @@
-<h1>Hi there 👋</h1>
+<h2>Hi there 👋</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h2>Witches <i>(Not ready for use)</i></h2>
+      <h3>Witches <i>(Not ready for use)</i></h2>
       <ul>
         <li><a href="https://github.com/DVV-15324/witches"><b>witches</b></a> - Go backend CLI.</li>
         <li><a href="https://github.com/DVV-15324/witches-mqtt"><b>witches-mqtt</b></a> - MQTT client for IoT & deduplication.</li>
@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h2>Castles <i>(Not ready for use)</i></h2>
+      <h3>Castles <i>(Not ready for use)</i></h2>
       <ul>
         <li><a href="https://github.com/DVV-15324/castles"><b>castles</b></a> - Dart CLI for Flutter scaffolding.</li>
         <li><a href="https://github.com/DVV-15324/castles-book"><b>castles-book</b></a> - Test example.</li>
@@ -26,7 +26,7 @@
 
 <details>
   <summary><b>Vietnamese (Click there)</b></summary>
-  <h1>Chào người đồng hương. 👋</h1>
+  <h2>Chào đồng hương. 👋</h2>
   <br/>
   <table width="100%">
     <tr>
