@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1>Hi there 👋</h1>
 
-<!--
-**DVV-15324/DVV-15324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2>Witches <i>(Not ready for use)</i></h2>
+      <ul>
+        <li><a href="https://github.com/DVV-15324/witches"><b>witches</b></a> - Go backend CLI.</li>
+        <li><a href="https://github.com/DVV-15324/witches-mqtt"><b>witches-mqtt</b></a> - MQTT client for IoT & deduplication.</li>
+        <li><a href="https://github.com/DVV-15324/witches-realtime"><b>witches-realtime</b></a> - WebSocket server for backend-to-backend communication.</li>
+        <li><a href="https://github.com/DVV-15324/witches-auth"><b>witches-auth</b></a> - Authentication & authorization.</li>
+        <li><a href="https://github.com/DVV-15324/witches-book"><b>witches-book</b></a> - Test example.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>Castles <i>(Not ready for use)</i></h2>
+      <ul>
+        <li><a href="https://github.com/DVV-15324/castles"><b>castles</b></a> - Dart CLI for Flutter scaffolding.</li>
+        <li><a href="https://github.com/DVV-15324/castles-book"><b>castles-book</b></a> - Test example.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>Vietnamese (Click there)</b></summary>
+  <h1>Chào người đồng hương. 👋</h1>
+  <br/>
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Witches <i>(Chưa sẵn sàng sử dụng)</i></h3>
+        <ul>
+          <li><a href="https://github.com/DVV-15324/witches"><b>witches</b></a> - CLI cho backend Go.</li>
+          <li><a href="https://github.com/DVV-15324/witches-mqtt"><b>witches-mqtt</b></a> - MQTT client cho IoT & chống trùng lặp dữ liệu.</li>
+          <li><a href="https://github.com/DVV-15324/witches-realtime"><b>witches-realtime</b></a> - WebSocket server cho giao tiếp backend-to-backend.</li>
+          <li><a href="https://github.com/DVV-15324/witches-auth"><b>witches-auth</b></a> - Xác thực & phân quyền.</li>
+          <li><a href="https://github.com/DVV-15324/witches-book"><b>witches-book</b></a> - Ví dụ kiểm thử..</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Castles <i>(Chưa sẵn sàng sử dụng)</i></h3>
+        <ul>
+          <li><a href="https://github.com/DVV-15324/castles"><b>castles</b></a> - CLI Dart để tạo khung dự án Flutter.</li>
+          <li><a href="https://github.com/DVV-15324/castles-book"><b>castles-book</b></a> - Ví dụ kiểm thử.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
