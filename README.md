@@ -10,7 +10,6 @@
         <li><a href="https://github.com/DVV-15324/witches-realtime"><b>witches-realtime</b></a> - WebSocket server for backend-to-backend communication.</li>
         <li><a href="https://github.com/DVV-15324/witches-auth"><b>witches-auth</b></a> - Authentication & authorization.</li>
         <li><a href="https://github.com/DVV-15324/witches-book"><b>witches-book</b></a> - Test example.</li>
-        <li><a href="https://github.com/DVV-15324/witches-vnpay"><b>witches-vnpay</b></a> - Test sanbox Vnpay</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -38,7 +37,6 @@
           <li><a href="https://github.com/DVV-15324/witches-realtime"><b>witches-realtime</b></a> - WebSocket server cho giao tiếp backend-to-backend.</li>
           <li><a href="https://github.com/DVV-15324/witches-auth"><b>witches-auth</b></a> - Xác thực & phân quyền.</li>
           <li><a href="https://github.com/DVV-15324/witches-book"><b>witches-book</b></a> - Ví dụ kiểm thử..</li>
-          <li><a href="https://github.com/DVV-15324/witches-vnpay"><b>witches-vnpay</b></a> - Nghịch sanbox Vnpay</li>
         </ul>
       </td>
       <td width="50%" valign="top">
