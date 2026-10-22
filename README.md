@@ -9,7 +9,6 @@
         <li><a href="https://github.com/DVV-15324/witches-mqtt"><b>witches-mqtt</b></a> - MQTT client for IoT & deduplication.</li>
         <li><a href="https://github.com/DVV-15324/witches-realtime"><b>witches-realtime</b></a> - WebSocket server for backend-to-backend communication.</li>
         <li><a href="https://github.com/DVV-15324/witches-auth"><b>witches-auth</b></a> - Authentication & authorization.</li>
-        <li><a href="https://github.com/DVV-15324/iot-e2e"><b>iot-e2e</b></a> - Test.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
